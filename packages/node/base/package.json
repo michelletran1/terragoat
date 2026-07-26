@@ -203,5 +203,40 @@
     "@babel/types": "7.8.6",
     "**/https-proxy-agent": "5.0.0",
     "**/saucelabs": "7.1.2"
+  },
+  "overrides": {
+    "json5": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "mkdirp": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "blocking-proxy": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "webdriver-manager": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "check-side-effects": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "handlebars": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "nash": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "rc": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "google-closure-compiler": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "http-server": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    },
+    "gonzales-pe": {
+      "minimist": "https://npm.aikido.io/1e951c1b07ea5d214839a/minimist@1.2.5-aikido.2"
+    }
   }
 }
